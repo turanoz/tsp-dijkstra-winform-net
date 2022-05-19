@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Turan\\Desktop\\GezginSaticiProblemi\\GezginSaticiProblemi.csproj",
-      "projectName": "GezginSaticiProblemi",
-      "projectPath": "C:\\Users\\Turan\\Desktop\\GezginSaticiProblemi\\GezginSaticiProblemi.csproj",
+      "projectUniqueName": "C:\\Users\\Turan\\source\\repos\\tsp\\tsp.csproj",
+      "projectName": "tsp",
+      "projectPath": "C:\\Users\\Turan\\source\\repos\\tsp\\tsp.csproj",
       "packagesPath": "C:\\Users\\Turan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Turan\\Desktop\\GezginSaticiProblemi\\obj\\",
+      "outputPath": "C:\\Users\\Turan\\source\\repos\\tsp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Turan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

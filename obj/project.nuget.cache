@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgMSSvk0XTFl0XPoIyMQnhOj9d4GSeUItZc5I5aSqZu2BGgJ4lKU1Qp5syUVUnKe5OGN2QNo+1LYw7tqMdwqzw==",
+  "dgSpecHash": "ZiY2bJTvSVB8O8wcokHfs3fLYfMo7C2aDoOC+Ds1KJ564fvNHW0BPiZVpWrphHU6547dTwwUgKEnsF3olRYAEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Turan\\Desktop\\GezginSaticiProblemi\\GezginSaticiProblemi.csproj",
+  "projectFilePath": "C:\\Users\\Turan\\source\\repos\\tsp\\TSP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
